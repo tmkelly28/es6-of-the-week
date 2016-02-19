@@ -2,6 +2,7 @@
 The best time of the week!
 
 const and let - http://slides.com/tomkelly-1/deck-3#/1
+
 arrow functions - http://slides.com/tomkelly-1/deck-3-5#/
 rest and spread - http://slides.com/tomkelly-1/deck-3-5-5#/
 classes - http://slides.com/tomkelly-1/deck-3-5-5-6#/
