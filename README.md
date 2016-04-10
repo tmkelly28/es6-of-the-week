@@ -1,16 +1,18 @@
 # es6-of-the-week
 The best time of the week!
 
-const and let - http://slides.com/tomkelly-1/deck-3#/1
+const and let - http://slides.com/tomkelly-1/const-and-let
 
-arrow functions - http://slides.com/tomkelly-1/deck-3-5#/
+arrow functions - http://slides.com/tomkelly-1/arrow-funcs
 
-rest and spread - http://slides.com/tomkelly-1/deck-3-5-5#/
+rest and spread - http://slides.com/tomkelly-1/rest-and-spread
 
-classes - http://slides.com/tomkelly-1/deck-3-5-5-6#/
+classes - http://slides.com/tomkelly-1/classes
 
-maps and sets - http://slides.com/tomkelly-1/deck-3-5-5-6-7#/
+maps and sets - http://slides.com/tomkelly-1/maps-and-sets
 
-enhanced literals - http://slides.com/tomkelly-1/deck-3-5-5-6-7-8#/
+enhanced literals - http://slides.com/tomkelly-1/literals
 
-metaprogramming - http://slides.com/tomkelly-1/deck-3-5-5-6-7-8-9#/
+metaprogramming - http://slides.com/tomkelly-1/metaprogramming
+
+generators and iterators - http://slides.com/tomkelly-1/it-and-gen
